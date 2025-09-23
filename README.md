@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 👋 Hi, I'm Easin Ahmed  
 
 💻 A passionate learner and web developer from Bangladesh  
@@ -47,4 +45,4 @@ I am a self-motivated and dedicated developer who is always eager to learn and w
 
 ⭐️ From [Easin Ahmed](https://github.com/easinahmed)
 
--->
+--
