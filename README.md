@@ -4,9 +4,7 @@
 💻 A passionate learner and web developer from Bangladesh  
 - 🌱 I’m currently learning **FULL Stack & UI/UX **  
 - 🤝 I’m looking to collaborate on **Web Development Projects**  
-- 📫 Reach me at: **easintshirtdesigner@gmail.com**  - 🌱 I’m currently learning **FULL Stack & UI/UX **  
-- 🤝 I’m looking to collaborate on **Web Development Projects**  
-- 📫 Reach me at: **easintshirtdesigner@gmail.com**  
+- 📫 Reach me at: **easintshirtdesigner@gmail.com** 
 
 ---
 
