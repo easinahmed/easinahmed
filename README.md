@@ -1,5 +1,8 @@
 
-# 👋 Hi, I'm Easin Ahmed  
+# 👋 Hi, I'm Easin Ahmed 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0AF748&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+MD.+Al-Amin;%F0%9F%8C%B1+I%E2%80%99m+interested+in+learning+new+skills;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+currently+learning+MERN+Stack;%F0%9F%91%80+I%E2%80%99m+looking+to+collaborate+on+...;%F0%9F%93%AB+How+to+reach+me+...)](https://git.io/typing-svg)
+
 
 💻 A passionate learner and web developer from Bangladesh  
 - 🌱 I’m currently learning **FULL Stack & UI/UX **  
@@ -13,25 +16,60 @@ I am a Full-Stack developer with expertise in developing web applications using 
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Next js 
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, VS Code, Figma  
+## ⚡ Technical Skills
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Front-End Development
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Back-End Development
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### BaaS
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![Easin's GitHub stats](https://github-readme-stats.vercel.app/api?username=easinahmed&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easinahmed&layout=compact&theme=radical)  
+## 🖥 Workspace Setup
+![MacBook](https://img.shields.io/badge/Apple-MacBook_Air_M3-C0C0C0?style=for-the-badge&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 Achievements & Goals
-- 🔥 Contributing to Open Source  
-- 🎯 Building Full-Stack Applications  
-- 📖 Lifelong Learner  
+# 📊 Stats
+![Easin's GitHub stats](https://github-readme-stats.vercel.app/api?username=easinahmed&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=easinahmed&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easinahmed&layout=compact&theme=radical)
+
+---
+
+## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-easin-ahmed-4687bb21a/)
+[![Facebook](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/easin.ahmedtauhid)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/yourname)
+
+---
+
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## ☕ Support
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
 
 ---
 
